@@ -1,0 +1,16 @@
+
+  header {
+      width:90%;
+      height:300%;
+      background-color: #00008B;
+      text-align: right;
+      border: 2px solid rgb(2, 2, 33);  /* Ancho, estilo y color del borde */
+      border-radius: 40px;     /* Bordes redondeados */
+      padding: 0px 10px 10px 10px;
+      margin: 0px 30px 0px 30px;
+  }
+  .izq{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+  }
